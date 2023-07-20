@@ -11,6 +11,7 @@
 		BD64D3132A61E49400A68C36 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD64D3122A61E49400A68C36 /* ContentView.swift */; };
 		BD64D3152A61E49600A68C36 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD64D3142A61E49600A68C36 /* Assets.xcassets */; };
 		BD64D3182A61E49600A68C36 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD64D3172A61E49600A68C36 /* Preview Assets.xcassets */; };
+		BD64D3212A61EF0A00A68C36 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD64D3202A61EF0A00A68C36 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		BD64D3122A61E49400A68C36 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD64D3142A61E49600A68C36 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD64D3172A61E49600A68C36 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BD64D3202A61EF0A00A68C36 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				BD64D3102A61E49400A68C36 /* NavigationPracticeApp.swift */,
 				BD64D3122A61E49400A68C36 /* ContentView.swift */,
+				BD64D3202A61EF0A00A68C36 /* SecondView.swift */,
 				BD64D3142A61E49600A68C36 /* Assets.xcassets */,
 				BD64D3162A61E49600A68C36 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD64D3212A61EF0A00A68C36 /* SecondView.swift in Sources */,
 				BD64D3132A61E49400A68C36 /* ContentView.swift in Sources */,
 				BD64D3112A61E49400A68C36 /* NavigationPracticeApp.swift in Sources */,
 			);
